@@ -1,4 +1,4 @@
-
+# UNP_PROJECT_BI_WITH_MS_EXCEL_NEW_BRANCH_LOCATION_ASSESSMENT_DATA
 I created an Excel Dashboard using raw data from a bank to evaluate a potential branch loaction. 
 Cleaned and transformed data by deriving Age, Age Range, Employment Years and Service Year Ranges.
 Created Pivot Tables analyzing Age range and Employment Status, Income Range and Employee Status, Age and Real Estate Ownership, Income and Education Level, Family Structure and Housing Type.
